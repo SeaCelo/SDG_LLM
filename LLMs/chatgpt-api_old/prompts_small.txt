@@ -1,0 +1,62 @@
+    Draft a long newspaper article about the SDG in the style of the New York Times. 
+    Draft a long newspaper article about the SDG in the style of the Financial Times. 
+    Draft a long newspaper article about the SDG in the style of USA Today. 
+    Draft a long newspaper article about the SDG in the style of Bloomberg. 
+    Draft a long newspaper article about the SDG in the style of the Wall Street Journal. 
+    Draft a long Oped about the SDG in the style of Nicholas Kristoff. 
+    Draft a long Oped about the SDG in the style of Paul Krugman. 
+    Draft a long Oped about the SDG in the style of Mark Whitehouse. 
+    Draft a long article about the SDG in the style of The Economist. 
+    Draft a long article about the SDG in the style of the Havard Business Review. 
+    Draft a long article about the SDG in the style of Time Magazine. 
+    Draft a long article about the SDG in the style of Forbes. 
+    Draft a long article about the SDG in the style of Newsweek. 
+    Draft a long academic article about the SDG in the style of the Journal of International Development. 
+    Draft a long academic article about the SDG in the style of the Journal of Development Economics. 
+    Draft a long academic article about the SDG in the style of the Review of Development Economics. 
+    Draft a long academic article about the SDG in the style of the Journal of Economic Literature. 
+    Draft a long academic article about the SDG in the style of the World Development journal. 
+    Draft a long academic article about the SDG in the style of the World Bank Economic Review. 
+    Draft a long college-level essay about the SDG. Add the text college-level essay at the top of your response,
+    Draft a long speech by the UN Secretary-General about the SDG. Add the text UN SG Speech at the top of your response,
+    Draft a long speech by the UN Under-Secretary-General about the SDG. Add the text UN USG Speech at the top of your response,
+    Draft a long speech by a politician about the SDG. Add the text political speech at the top of your response,
+    Draft a long fictional detailed analytical report on the current SDG in the style of UN DESA targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of EAPD targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DPIDG targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DISD targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DSDG targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of FSDO targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNDP targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNCTAD targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECA targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECE targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECLAC targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCAP targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCWA targetting an expert audience. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UN DESA targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of EAPD targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DPIDG targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DISD targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DSDG targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of FSDO targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNDP targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNCTAD targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECA targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECE targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECLAC targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCAP targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCWA targetting an expert audience and with a focus on middle income countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UN DESA targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of EAPD targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DPIDG targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DISD targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of DSDG targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of FSDO targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNDP targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of UNCTAD targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECA targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECE targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ECLAC targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCAP targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 
+    Draft a long fictional detailed analytical report on the current SDG in the style of ESCWA targetting an expert audience and with a focus on least developed countries, small island developing states, and landlocked developing countries. 

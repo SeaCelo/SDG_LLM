@@ -1,0 +1,4 @@
+    Draft a newspaper article about the SDG in the style of the Wall Street Journal. 
+    Draft an Oped about the SDG in the style of Nicholas Kristoff. 
+    Draft an article about the SDG in the style of The Economist. 
+
