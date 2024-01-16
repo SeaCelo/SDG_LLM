@@ -3,7 +3,10 @@
 
 # Paths
 results/
-combined/
+working/
+anthropic/
+chatgpt-api_old/
+
 
 # Compiled source #
 ###################
