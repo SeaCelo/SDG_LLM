@@ -8,27 +8,23 @@ parser = argparse.ArgumentParser(description="Process SDGs")
 parser.add_argument("--sdg", type=int, help="Single SDG number to process")
 parser.add_argument("--sdg_start", type=int, help="Start of SDG range")
 parser.add_argument("--sdg_end", type=int, help="End of SDG range (exclusive)")
-parser.add_argument("--prompts", type=str, help="Path to the prompt file")
 args = parser.parse_args()
 
 # Validate and set SDG range
 if args.sdg:
     if not 1 <= args.sdg <= 17:
         print("Error: SDG must be between 1 and 17")
-        parser.print_help()
         exit(1)
     sdg_start = args.sdg
     sdg_end = args.sdg + 1
 elif args.sdg_start and args.sdg_end:
     if not 1 <= args.sdg_start <= 17 or not 1 <= args.sdg_end <= 18:
         print("Error: SDG range must be between 1 and 17")
-        parser.print_help()
         exit(1)
     sdg_start = args.sdg_start
     sdg_end = args.sdg_end
 else:
     print("Error: Please specify either a single SDG or a range of SDGs")
-    parser.print_help()
     exit(1)
 
 
@@ -39,17 +35,10 @@ with open("chatgpt_api_key.txt", "r") as file:
 # Create the OpenAI client object with the API key
 client = OpenAI(api_key=api_key)
 
-if not args.prompts:
-    print("Error: Please specify a prompt file using the --prompts")
-    parser.print_help()
-    exit(1)
-
-prompt_file_path = args.prompts
 
 # Define the list of prompts
-with open(prompt_file_path) as f:
-    prompts = [line.strip() for line in f.readlines()]
-
+with open("prompts_large.txt") as f:
+    prompts = f.read().splitlines()
 
 # context = f'You are a knowledgeable assistant. You are an expert on the Sustainable development goals, including how they are discussed in the annual report of the secretary-general titled "progress towards the sustainable development goals", and in speeches and reports from the United Nations. You are familiar with the work of the following organizations: UN DESA (and its divisions EAPD, DPIDG, DISD, DSDG, FSDO), UNDP, UNCTAD, and the five UN regional commissions. You will respond to the following prompt with a long response with as much detail as possible. Do not include section headings and focus instead on a flowing narrative without unnecessary and irrelevant information.'
 # context = f"You are a knowledgeable assistant. You are an expert on the Sustainable development goals. You will respond to the following prompt with a long response with as much detail as possible. Do not include section headings and focus instead on a flowing narrative without unnecessary and irrelevant information. Do not include any preliminary explanation or preamble of the content. The content should be tailored in style and issues."
