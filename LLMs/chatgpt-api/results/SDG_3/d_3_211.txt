@@ -1,0 +1,29 @@
+Title: Public Health and Sustainable Development: Assessing the Scope of SDG 3
+
+Abstract: 
+	The Sustainable Development Goals (SDGs) established by the United Nations serve as a compass for addressing pressing global issues. Among these goals, SDG 3 aims to ensure healthy lives and promote wellbeing for all at all ages. This article critically assesses SDG 3, exploring its scope and implications for public health. In light of the recent COVID-19 pandemic and emerging global health challenges, it is imperative to not only achieve SDG 3 but also build resilient health systems for long-term sustainable development.
+
+Introduction:
+	The attainment of SDG 3 aligns interdisciplinary efforts to address health inequalities, combat infectious diseases, and promote universal access to healthcare services. Sustainable development calls for integrated and inclusive approaches to achieve health and wellbeing for all, recognizing the intrinsic linkages between health, education, poverty, equality, and economic growth. This article analyzes the various dimensions of SDG 3, highlighting the importance of political commitment, global cooperation, and multi-sectoral partnerships.
+
+Dimensions of SDG 3:
+1. Reducing Mortality Rates and Achieving Universal Health Coverage: 
+   SDG 3 addresses the need to reduce maternal, newborn, and under-five mortality rates while strengthening primary healthcare systems. The goal emphasizes universal health coverage (UHC) and the importance of access to essential health services, such as immunization, sexual and reproductive healthcare, and treatment for non-communicable diseases.
+
+2. Addressing Major Health Challenges: 
+   SDG 3 aims to eliminate or control major infectious diseases such as HIV/AIDS, malaria, and tuberculosis. It emphasizes the importance of combating neglected tropical diseases and reducing the burden of epidemics while enhancing preparedness for emerging and re-emerging diseases.
+
+3. Promoting Mental Health and Wellbeing: 
+   Mental health is recognized as a critical component of overall wellbeing. SDG 3 calls for the promotion of mental health, reduction in suicide rates, and the prevention and treatment of substance abuse. A holistic approach is required to create supportive environments, provide psychosocial support, and reduce stigma associated with mental health disorders.
+
+4. Strengthening Health Systems and Building Resilience: 
+   SDG 3 underscores the need to improve healthcare infrastructure, particularly in low-income settings. It acknowledges the importance of a trained healthcare workforce, access to safe and effective medicines, and effective systems for emergency preparedness and response. Building resilient health systems is crucial to address both immediate health crises and long-term development needs.
+
+5. Enhancing Global Health Security:
+    SDG 3 recognizes the interconnectedness of health across borders. Improving global health security means prioritizing early detection and mitigation of disease outbreaks, developing systems for surveillance, and strengthening health cooperation between countries. The recent COVID-19 pandemic serves as a stark example of the importance of global health security and the need for coordinated responses.
+
+Conclusion:
+	SDG 3 encompasses a wide array of health-related targets, recognizing the multidimensional and interlinked nature of public health. Achieving this goal requires robust governance, sufficient financing, and effective partnerships for health. It is imperative to address social determinants of health, ensure equitable access to healthcare, and strengthen health systems to guarantee sustainable progress towards SDG 3. As we face the complex health challenges of our time, the COVID-19 pandemic reminds us of the urgent need to combine efforts across multiple sectors and innovate in order to promote the health and wellbeing of all people, leaving no one behind.
+	
+
+
