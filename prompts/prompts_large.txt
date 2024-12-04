@@ -40,7 +40,7 @@ Draft a fictional detailed analytical report on the current SDG as if written by
     Draft a long academic article about the SDG as if written by  Phillip Adams 
     Draft a long academic article about the SDG as if written by  Piers Akerman 
     Draft a long academic article about the SDG as if written by  Janet Albrechtsen 
-    Draft a long academic article about the SDG as if written by  Andrew Bolt 
+    Draft a long academic article about the SDG as if written by  Geoffrey Stevens 
     Draft a long academic article about the SDG as if written by  Leslie Cannold 
     Draft a long academic article about the SDG as if written by  Mike Carlton 
     Draft a long academic article about the SDG as if written by  Nick Cater
@@ -57,7 +57,7 @@ Draft a fictional detailed analytical report on the current SDG as if written by
     Draft a long academic article about the SDG as if written by  Bernard Salt
     Draft a long academic article about the SDG as if written by  Niki Savva
     Draft a long academic article about the SDG as if written by  Judith Sloan 
-    Draft a long academic article about the SDG as if written by  Barbara Amiel 
+    Draft a long academic article about the SDG as if written by  Russell Baker 
     Draft a long academic article about the SDG as if written by  Andrew Coyne 
     Draft a long academic article about the SDG as if written by  John Doyle 
     Draft a long academic article about the SDG as if written by  Gwynne Dyer 
@@ -144,13 +144,13 @@ Draft a fictional detailed analytical report on the current SDG as if written by
     Draft a long academic article about the SDG as if written by  David Bianculli 
     Draft a long academic article about the SDG as if written by  David Brooks 
     Draft a long academic article about the SDG as if written by  Rosa Brooks 
-    Draft a long academic article about the SDG as if written by  Pat Buchanan 
+    Draft a long academic article about the SDG as if written by  Emmett Watson 
     Draft a long academic article about the SDG as if written by  Scott Burns
     Draft a long academic article about the SDG as if written by  Wilson Casey 
     Draft a long academic article about the SDG as if written by  Mona Charen 
     Draft a long academic article about the SDG as if written by  Richard Cohen
     Draft a long academic article about the SDG as if written by  Gail Collins 
-    Draft a long academic article about the SDG as if written by  Ann Coulter 
+    Draft a long academic article about the SDG as if written by  Sylvia Schur 
     Draft a long academic article about the SDG as if written by  E. J. Dionne 
     Draft a long academic article about the SDG as if written by  Maureen Dowd 
     Draft a long academic article about the SDG as if written by  Mike Downey 
@@ -171,7 +171,7 @@ Draft a fictional detailed analytical report on the current SDG as if written by
     Draft a long academic article about the SDG as if written by  Al Lewis 
     Draft a long academic article about the SDG as if written by  Steve Lopez 
     Draft a long academic article about the SDG as if written by  Charlie Madigan 
-    Draft a long academic article about the SDG as if written by  Michelle Malkin 
+    Draft a long academic article about the SDG as if written by  Christie Blatchford
     Draft a long academic article about the SDG as if written by  Tom Meek 
     Draft a long academic article about the SDG as if written by  Harold Meyerson 
     Draft a long academic article about the SDG as if written by  Jeffrey Morgan 
@@ -187,7 +187,7 @@ Draft a fictional detailed analytical report on the current SDG as if written by
     Draft a long academic article about the SDG as if written by  Eugene Robinson 
     Draft a long academic article about the SDG as if written by  Neal Rubin 
     Draft a long academic article about the SDG as if written by  Mary Schmich 
-    Draft a long academic article about the SDG as if written by  Ben Shapiro 
+    Draft a long academic article about the SDG as if written by  Hunter S. Thompson 
     Draft a long academic article about the SDG as if written by  Kyle Smith 
     Draft a long academic article about the SDG as if written by  Thomas Sowell 
     Draft a long academic article about the SDG as if written by  Stephen Stromberg 
