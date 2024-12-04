@@ -1,0 +1,25 @@
+Here is a detailed academic article about Sustainable Development Goal 11 (Sustainable Cities and Communities), written from the perspective of the economist Jordi Galí:
+
+The quest to make human settlements inclusive, safe, resilient and sustainable represents one of the great challenges facing the world today. As an economist, I am keenly aware that the path towards SDG 11 (Sustainable Cities and Communities) is an inherently complex one, requiring coordinated efforts across multiple domains - economic, social, environmental and political. 
+
+At its core, sustainable urban development hinges on our ability to align economic incentives with the imperative of creating livable cities and communities that meet the needs of their residents, present and future. The textbook market failures arising from externalities, public goods, and common pool resource problems are manifestly present in the urban context. Unfettered markets alone cannot deliver the efficient allocation of land, housing, transportation, and public services that livable cities require.
+
+Consider the case of urban sprawl and its adverse environmental impacts. The private market incentives facing real estate developers, which emphasize maximizing the capitalized land values, run counter to the socially optimal level of urban density. Over-consumption of urban land represents a distortion arising from the failure to fully internalize the negative externality costs of sprawl on factors such as greenhouse gas emissions, infrastructure costs, agricultural land preservation, and quality of life. 
+
+Analogous market failures emerge with respect to public transportation provision, management of urban commons like public parks and spaces, affordable housing development, and the coordination of land use policies across municipal jurisdictions. Misaligned private incentives invariably lead to excessive traffic congestion, underprovision of public green spaces, urban blight, homelessness, and fragmented policy initiatives.
+
+To resolve these market failures and align private incentives with social objectives, a judicious blend of policy instruments and institutional reforms is needed. Pigouvian taxes (or tradable permit schemes) can help internalize environmental externalities stemming from urban economic activities. Land value capture tools and zoning policies incentivize more compact and transit-oriented urban forms. Public housing vouchers, rent controls and inclusionary zoning requirements can promote affordable housing access. 
+
+Critically, the governance of sustainable cities requires rethinking jurisdictional boundaries and empowering metropolitan-scale institutions, to enable coordinated infrastructure investment, transportation planning, and land use policies across the economically-integrated urban region.
+
+Moreover, fiscal tools like property taxes, development charges and tax increment financing give cities the revenue streams needed to fund growth-related infrastructure and services for making cities livable and sustainable. Perhaps most critically, cities need enhanced fiscal autonomy and access to municipal borrowing to fund long-term infrastructure investments.
+
+That said, policy interventions are not a panacea if the underlying political economy conditions are not conducive. Powerful vested interests - landowners, developers, businesses benefiting from urban sprawl - can distort the policymaking process against the interests of the broader urban populace. Empowering urban residents through democratic processes of public participation and consultation is vital for legitimizing planning decisions and policy reforms.
+
+Sustainable urbanization also hinges on how the costs and benefits of policies are distributed across different socioeconomic groups and stakeholders. Progressive property taxes, housing vouchers, and targeted infrastructure investments in underserved neighborhoods can promote inclusive cities. But urban sustainability requires more than just alleviating intra-city disparities - it demands empowering cities as actors on the global stage, giving them a voice in national policymaking and climate negotiations commensurate with their status as economic powerhouses and population hubs.
+
+Ultimately, financing the sustainable urbanization agenda will require fiscal reforms at all levels of government, including earmarked green taxes and restructured intergovernmental transfers. But financial instruments like municipal bonds, public-private partnerships and land value capture tools can unlock private capital to leverage stretched public resources.  
+
+In the final analysis, making cities inclusive, safe, resilient and sustainable is a socioeconomic imperative that cannot be achieved through compartmentalized interventions. It demands a holistic rethinking of the governance, financing and incentive structures shaping the expansive urban footprint of the 21st century global economy.
+
+

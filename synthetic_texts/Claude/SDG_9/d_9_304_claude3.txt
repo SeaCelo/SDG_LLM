@@ -1,0 +1,27 @@
+Here is a draft academic article on SDG 9: Industry, Innovation and Infrastructure, as if written by Nobel laureate Richard H. Thaler:
+
+Innovation as the Engine of Sustainable Industry and Infrastructure 
+
+By Richard H. Thaler, University of Chicago
+
+When the United Nations launched the Sustainable Development Goals (SDGs) in 2015, the ninth goal - to "build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation" - struck me as particularly insightful and critical for economic progress. As a behavioral economist, I have long been fascinated by the drivers and barriers to innovation, which lies at the heart of industrial growth and infrastructure development. 
+
+One of the key insights from behavioral economics is that humans are not the hyper-rational utility maximizers often assumed in traditional economic models. We have bounded rationality, fall victim to cognitive biases, and engage in mental accounting that can lead to suboptimal decision making. These human frailties pose challenges for innovation, as breakthrough ideas often require us to escape established ways of thinking.
+
+The "availability heuristic" leads us to give undue weight to what is familiar and easily brought to mind. Entrepreneurs and engineers considering potential innovations fight an uphill battle against the status quo bias and anchoring effects that favor conventional solutions. Even when we intellectually recognize the merits of an innovative proposal, the endowment effect makes us psychologically attached to existing systems, methods and infrastructure.
+
+Yet innovation is essential for the upgrades to industrial processes, transportation networks, and utility services needed to build truly resilient and sustainable infrastructure. Moreover, we need the "sustainable industrialization" of developing nations to raise living standards through economic growth, while developing ecologically-sound manufacturing capabilities.
+
+So how can we overcome the behavioral barriers and cognitive constraints to accelerate innovation in industry and infrastructure? Fortunately, another key insight from behavioral science is that our decision environments and choice architectures can be redesigned to nudge us toward better outcomes.
+
+First, we should recognize that humans are motivated by both economic incentives and non-pecuniary factors like social recognition and the warm glow of helping others. Governments and firms can harness these motivational forces by establishing prizes, awards and public celebrations for breakthrough innovations. The prestige of winning a "Nobel Prize" for sustainable industry or infrastructure could inspire tireless efforts.
+
+Second, we should embrace the wisdom and innovative potential of the global crowd. Online innovation platforms allow millions of minds to contribute ideas, leveraging our natural curiosity and creativity while mitigating the not-invented-here bias. An unexpected outsider perspective can be the catalyst to overcome mental ruts.
+
+Third, we should make more use of predictive markets and information markets to crowdsource forecasts and probability estimates about potential innovations. By deconstructing innovation challenges into modular components, we can tap into the collective intelligence of those with domain-specific expertise. Even failed ideas reveal information that sharpens our understanding.
+
+Fourth, we need to engage in more careful choice architecture for industrial and infrastructure policy decisions. By structuring the decision environments to make sustainable paths easier to choose, using defaults, checklists and other nudges, we can overcome inertia and incrementalism to make bolder innovative leaps.
+
+Throughout modern economic history, innovation has been the prime driver of productivity growth, rising living standards and technological progress. By embracing behavioral insights, and designing environments conducive to innovative thinking, we can achieve the vital goals of sustainable industry and resilient infrastructure for generations to come.
+
+

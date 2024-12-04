@@ -1,0 +1,21 @@
+Here is a draft academic article about SDG 13 (Climate Action) as if written for the Journal of Financial Economics:
+
+Climate change poses an existential threat to the global economy and financial system. The risks associated with rising temperatures, sea level rise, extreme weather events, ecosystem disruptions, and other climate impacts have far-reaching consequences for asset valuations, portfolio returns, and systemic stability. Achieving the targets of the Paris Agreement to limit global warming is thus an economic and financial imperative. 
+
+Transitioning to a low-carbon economy will require a fundamental restructuring of the real economy with profound impacts on firms, industries, and markets. Certain sectors like fossil fuel extraction face stranded asset risks, while sunrise industries like renewable energy and cleantech stand to gain. Asset repricing will be inevitable as markets incorporate transition risks and newly-internalized externalities. 
+
+Financial institutions are exposed to climate risks through their lending, investing, underwriting, and advisory activities. Physical risks like disasters can impair borrowers' ability to repay loans and destroy collateral value. Transition risks arise from policy changes, technological disruptions, and consumer preferences that can erode firms' competitiveness. Central banks and regulators increasingly view climate change as a threat to financial stability to be proactively managed.
+
+Climate-related financial disclosure is emerging as a key risk mitigation tool. The Task Force on Climate-related Financial Disclosures (TCFD) has developed a framework for companies to report material climate risks and opportunities. This can improve transparency and pricing efficiency by providing decision-useful information to investors. Leading jurisdictions are exploring mandatory TCFD-aligned reporting. Disclosure may incentivize firms to accelerate their climate strategies and decarbonization efforts.
+
+Green finance mobilizes capital towards sustainable investments via green bonds, sustainability-linked loans, ESG funds, and other vehicles. However, the market remains fragmented with concerns around greenwashing and inconsistent standards. Development of a robust, coherent taxonomy to define green projects and assets would enhance transparency and market functioning.
+
+Carbon pricing is one of the most powerful levers to reallocate capital and drive climate investment. Carbon markets have grown to over $300 billion globally, facilitating emissions trading and generating revenues for green initiatives. However, prices remain too low in many jurisdictions to fully internalize climate externalities. Effective carbon taxes at sufficiently high levels could stimulate the clean energy transition.
+
+Financial innovation can facilitate climate risk management and investment. Weather derivatives enable firms to hedge climate exposures. Catastrophe bonds transfer disaster risks to capital markets. Green fintech solutions like distributed energy and peer-to-peer trading platforms can accelerate decarbonization. However, innovations must be carefully monitored for systemic risks given the uncertainties involved.
+
+International cooperation on climate finance is accelerating but remains inadequate. Developed countries have fallen short on commitments to mobilize $100 billion annually to assist developing nations. Innovative financing vehicles like green bonds and carbon markets can help bridge the annual investment gap estimated at trillions of dollars. Equitable burden-sharing and support for climate-vulnerable nations are essential for an effective global transition.
+
+Ultimately, climate change is a negative externality of the highest order that distorts efficient resource allocation across firms, sectors, and economic systems. Addressing it requires unprecedented coordination between policymakers, regulators, financial institutions, corporations, and civil society. Establishing robust climate risk pricing mechanisms and facilitating an orderly reallocation of capital towards sustainable solutions are paramount financial imperatives of the 21st century.
+
+

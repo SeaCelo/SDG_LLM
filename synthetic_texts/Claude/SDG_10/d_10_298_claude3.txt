@@ -1,0 +1,25 @@
+Here is a detailed academic article about Sustainable Development Goal 10 - Reducing Inequalities, written from the perspective of economist Charles F. Manski:
+
+Tackling Inequalities Within and Among Countries: A Critique and Framework for Policy Analysis
+
+The 2030 Agenda for Sustainable Development has set an ambitious target of reducing inequalities within and among countries (SDG 10). However, the stark reality is that income and wealth inequalities remain persistently high across both developed and developing nations. To effectively address this multidimensional challenge, we must move beyond utopian rhetoric and face the harsh probabilistic uncertainties plaguing inequality reduction policies.  
+
+The primary flaw in current policymaking is the prevalent articulation of inequality objectives as classical best-case benchmarks rather than recognizing the unavoidable presence of ambiguity. Policymakers routinely set specific quantitative targets - be it reducing a country's Gini coefficient below a threshold or elevating the income share of the bottom quintile above a desired level. Yet, the equality-promoting interventions meant to achieve these targets yield distributions of potential outcomes rather than precise effects.
+
+For instance, progressive income taxation aimed at redistribution has an uncertain impact as high earners may respond by reducing their labor supply or shifting income across time periods. Similarly, equal access policies like affirmative action in university admissions yield unpredictable enrollment outcomes amid the complex interplay of qualifying criteria, applicant preferences, and institutional constraints. A rational policymaking approach must acknowledge such unavoidable uncertainties.
+
+I propose a decision-theoretic framework that moves away from formulating inequality objectives as cut-off benchmarks and instead operationalizes them as bounded region targets. Rather than specifying a desired Gini threshold, we could set an inequality objective as bringing the Gini between an acceptably low and tolerably high range - say 0.25 to 0.35 for a developed nation. This nuanced perspective accepts that complete equality is infeasible and appreciates that societies can reasonably disagree on the extent of permissible inequality.
+
+For each proposed intervention, from conditional cash transfers to affirmative action policies, policymakers should use available data and empirical evidence to characterize the predicted distributions of potential outcomes. These probabilistic outcome distributions can then be mapped onto various inequality metrics of interest (Gini, income shares, etc.) to assess whether the policy is expected to steer inequality towards the bounded target region with sufficiently high probability.
+
+The framework recognizes the endemic ambiguities involved - partial knowledge about individual behavioural responses, imperfect perception of general equilibrium effects, and inevitable socio-political disagreements over inequality aversion levels. Rather than pretending certainty, it transparently displays the uncertainties to facilitate rational policy deliberation. Different societies can specify their own inequality aversion levels, reflecting distinct ethical convictions and developmental priorities.
+
+This approach provides a structured way to contemplate difficult policy tradeoffs when pursuing the multidimensional SDG 10 mandate. For example, some interventions may be more effective at reducing within-country inequalities but exacerbate disparities between nations through detrimental cross-border spillovers. The decision framework clarifies such tradeoffs by juxtaposing the predicted distributions of within-country and global inequality outcomes.
+
+Moreover, it enables coordinating complementary policies in service of coherent inequality reduction strategies. Redistributive fiscal tools like taxation can work in tandem with human capital development through targeted education and health initiatives. By analyzing the joint distributions of outcomes across different interventions, policymakers can rationally determine reinforcing policy mixes to efficiently achieve desired inequality targets.
+
+Undoubtedly, ambiguity will persist even with this probabilistic analysis - the outcomes of even well-researched policies cannot be precisely predicted ex-ante. However, careful empirical study and transparent portrayal of uncertainties allows policymakers to make more reasoned decisions compared to an unrealistic poverty of ambiguity.
+
+The moral yearning for a perfectly equal world, while noble, is ultimately an unproductive chimera sabotaging substantive progress on SDG 10. Only by explicitly grappling with inevitable ambiguities through structured decision analysis can we rationally determine which inequality reduction policies to pursue, with what complementary combinations, and to what justifiable extent. Ethics must be balanced with epistemological humility - we should tenaciously fight inequality while remaining cogently uncertain of the ultimate outcomes.
+
+

@@ -1,0 +1,45 @@
+Building Resilient Infrastructure, Promoting Inclusive and Sustainable Industrialization and Fostering Innovation: An Evaluation of SDG 9 Through the Lens of Partial Identification
+
+By Charles F. Manski
+
+Sustainable Development Goal 9 (SDG 9) of the United Nations' 2030 Agenda for Sustainable Development is a multifaceted and ambitious objective that aims to "build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation." This goal recognizes the pivotal role that infrastructure, industrialization, and technological progress play in driving economic growth, reducing poverty, and enhancing societal well-being. However, achieving this goal poses significant challenges, and its evaluation requires a nuanced and rigorous approach that acknowledges the inherent uncertainties and identification problems inherent in such complex and multidimensional endeavors.
+
+In this article, I apply the principles of partial identification to assess the progress, challenges, and prospects of SDG 9. Partial identification, a concept I have long championed, recognizes that empirical evidence often yields bounded predictions rather than precise point estimates. This approach embraces the ambiguities and uncertainties that arise from limited data, heterogeneous populations, and the presence of unobserved factors, thereby providing a more realistic and robust evaluation framework.
+
+Resilient Infrastructure: The Foundation for Sustainable Development
+
+Resilient infrastructure is a cornerstone of SDG 9, as it underpins economic activity, facilitates the delivery of essential services, and enhances a nation's ability to withstand and recover from shocks and stresses. However, the definition and measurement of "resilient infrastructure" are inherently ambiguous, as resilience is a multidimensional concept that encompasses physical, social, economic, and environmental aspects.
+
+Using partial identification, we can establish bounds on the progress made toward achieving resilient infrastructure by considering various indicators and data sources. For instance, the World Bank's Logistics Performance Index provides a partial measure of the quality of trade and transport infrastructure, while the World Economic Forum's Global Competitiveness Index offers insights into the perceived quality of overall infrastructure. Additionally, data on access to electricity, safe drinking water, and sanitation services can inform assessments of the resilience of basic utility infrastructure.
+
+By combining these diverse data sources and acknowledging their limitations, we can construct bounded estimates of the progress made toward resilient infrastructure. For example, while precise global figures may be elusive, we can establish lower and upper bounds on the percentage of the population with access to reliable infrastructure services, or the proportion of countries that have achieved certain infrastructure quality thresholds.
+
+Inclusive and Sustainable Industrialization: Balancing Economic Growth and Environmental Stewardship
+
+SDG 9 underscores the importance of industrialization as a driver of economic development, but it explicitly calls for an "inclusive and sustainable" approach. This dual mandate presents a significant identification challenge, as the concepts of inclusiveness and sustainability are multifaceted and context-dependent.
+
+Partial identification can help navigate this complexity by recognizing the heterogeneity of industrial development trajectories across countries and regions. For instance, while data on manufacturing value added as a percentage of GDP may provide a broad measure of industrialization, it fails to capture the distribution of economic benefits and environmental impacts.
+
+To address this limitation, we can construct bounded estimates by considering complementary indicators such as employment in industry, income inequality measures, and environmental performance indices. By combining these diverse data sources and acknowledging their inherent limitations, we can establish ranges for the degree of inclusiveness and sustainability achieved by various industrialization strategies.
+
+Furthermore, partial identification allows us to explore the potential trade-offs and synergies between economic growth, social inclusion, and environmental sustainability. For example, we may find that certain industrialization pathways yield higher economic growth rates but wider income disparities and greater environmental degradation, while others achieve more modest growth but exhibit greater inclusiveness and sustainability.
+
+Fostering Innovation: Unlocking Human Potential and Technological Progress
+
+Innovation is a crucial driver of long-term economic growth, productivity gains, and societal advancement. However, measuring innovation and its impacts is a complex endeavor, as it encompasses diverse dimensions such as research and development (R&D) expenditure, patent activity, technological adoption, and the diffusion of knowledge and best practices.
+
+Partial identification provides a framework for evaluating innovation by acknowledging the limitations of existing metrics and embracing the inherent uncertainties involved. For instance, while R&D expenditure as a percentage of GDP is a commonly used indicator, it fails to capture the quality and relevance of research efforts, as well as the ability to translate discoveries into practical applications.
+
+By combining data on R&D expenditure with complementary indicators such as patent filings, high-tech exports, and measures of human capital development, we can construct bounded estimates of a country's or region's innovation performance. Additionally, we can explore the potential synergies and trade-offs between different aspects of innovation, such as basic research vs. applied research, or innovation in traditional industries vs. emerging technologies.
+
+Conclusion: Embracing Uncertainty and Crafting Nuanced Policies
+
+The Sustainable Development Goals, including SDG 9, represent ambitious and laudable objectives that demand concerted global efforts. However, their evaluation and implementation must acknowledge the inherent complexities, uncertainties, and identification challenges involved.
+
+By embracing the principles of partial identification, we can craft nuanced and robust assessments of progress toward SDG 9, recognizing the limitations of existing data and the heterogeneity of contexts and experiences. This approach allows us to establish bounded estimates, explore potential trade-offs and synergies, and identify areas where additional data collection or policy interventions may be warranted.
+
+Moreover, partial identification encourages a mindset of humility and continuous learning, acknowledging that our understanding of complex socio-economic phenomena is inherently imperfect and subject to revision as new evidence emerges. By embracing uncertainty and avoiding overconfident assertions, we can foster more inclusive and participatory decision-making processes, encouraging diverse stakeholders to engage in constructive dialogue and collaborative problem-solving.
+
+As we strive to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation, partial identification offers a valuable framework for navigating the inherent complexities and uncertainties involved. By embracing this approach, we can craft more nuanced and robust policies, enhancing our collective ability to achieve the ambitious goals set forth in the 2030 Agenda for Sustainable Development.
+
+

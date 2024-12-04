@@ -1,0 +1,19 @@
+Here is a detailed academic article on SDG 1 (No Poverty), written from the perspective of economist John List:
+
+The Sustainable Development Goal of ending poverty in all its forms everywhere has been an admirable but elusive target for policymakers and development experts for decades. As an economist specializing in field experiments, I believe we must rely more heavily on empirical evidence and rigorous evaluation rather than ideological stances or pure theory.
+
+The classic economic models have struggled mightily to explain the persistence of poverty traps and why growth alone has proven inadequate to lift many regions out of deprivation. The rational agent models simply cannot replicate the reality we observe on the ground through field work. Perhaps this shortcoming arises because the standard assumptions of perfect information, unbounded rationality, and self-interested preferences break down when scarcity taxes cognitive bandwidth.
+
+My field experiments in developing countries have highlighted the importance of behavioral constraints like present bias, inattention, and identity norms in perpetuating poverty. For example, research has shown that providing simple plan-making aids can help the poor strategize and prioritize their limited resources. Mental accounting and labeling of funds increases investment in preventative health products. And making the future more "visible" through commitment devices can help the poor build assets and consumption smoothing.
+
+We must tailor our policy prescriptions accordingly. Simple nudges and tweaks to the choice architecture can yield surprisingly large impacts at low cost. For example, redesigning the timing and framing of transfer payments from conditional cash transfers can leverage present bias and mental accounting. Innovative micro-savings devices and commitment accounts have proven effective at helping the poor accumulate lump sums to invest in entrepreneurial activities.  
+
+However, these "nudges" are not enough on their own. To dismantle the structural reasons for poverty's persistence, we must explore bigger policy levers and systemic changes. My research has explored how to best design programs that foster asset building, skills training, and sustainable livelihoods. Using field experiments, we have been able to identify effective models for "graduating" the ultra-poor into self-employment and formal labor markets.
+
+For example, combining access to capital and finance with complementary training and coaching has proven more successful than a piecemeal approach. Social support, self-help groups and networks also appear to be critical factors for sustained income growth. By varying the bundled components across treatment and control groups, we can determine the most cost-effective intervention mixes.
+
+Tackling poverty will require partnership across government, NGOs, academics, and the private sector. Using the tools of field experiments, we can enhance collaboration by aligning incentives and accountabilities.  For instance, testing out performance-based financing models where private providers are compensated based on verifiable outcomes. Or extending the concept of fair trade certification to prioritize poverty impacts rather than just price premia.
+
+In summary, I believe the evidence shows we are more likely to make sustainable progress on SDG1 by grounding our poverty interventions in scientific field work and empirical testing. And this innovative, experimental approach does not just apply to economic poverty - it can be extended to study multidimensional deprivations in health, education, and living standards that leave people vulnerable. With rigorous measurement and course correction when needed, we can more strategically deploy the right mix of policies, products, and partnerships to finally achieve meaningful and irreversible gains against the scourge of global poverty.
+
+
