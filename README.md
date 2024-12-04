@@ -53,5 +53,7 @@ The model demonstrated excellent performance, with the following key metrics:
 
 Unweighted confusion matrix for the SDGClassy classification model's performance on the Claude3 synthetic texts:
 
-![confusion_claude3](https://github.com/user-attachments/assets/83c8ff2e-6ebd-473d-8d33-4525b1a94d5b)
+![confusion_claude3](https://github.com/user-attachments/assets/92764c69-b52b-4a49-9afc-32f1efdb2dc5)
+
+
 
