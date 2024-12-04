@@ -51,6 +51,7 @@ The model demonstrated excellent performance, with the following key metrics:
 - **Macro Average (across all SDGs):** Precision 0.99, Recall 0.99, F1-score 0.99
 - **Weighted Average:** Precision 0.99, Recall 0.99, F1-score 0.99
 
-Unweighted confusion matrix for the classification model's performance on the Claude3 synthetic texts:
+Unweighted confusion matrix for the SDGClassy classification model's performance on the Claude3 synthetic texts:
 
-![Confusion Matrix](image.png)
+![confusion_claude3](https://github.com/user-attachments/assets/83c8ff2e-6ebd-473d-8d33-4525b1a94d5b)
+
