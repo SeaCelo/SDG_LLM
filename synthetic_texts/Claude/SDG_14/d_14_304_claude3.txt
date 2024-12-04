@@ -1,0 +1,21 @@
+Here is a draft academic article about Sustainable Development Goal 14 (Life Below Water) from the perspective of Nobel laureate Richard H. Thaler:
+
+To state the obvious up front, the world's oceans are in crisis. Overfishing, pollution, acidification, and warming waters from climate change are combining to push marine ecosystems to the brink. Like the proverbial frog in slowly boiling water, we are failing to appreciate the urgency and magnitude of the threat. Humans are behaving irrationally when it comes to stewardship of the oceans, exhibiting classic economic biases that my work in behavioral economics has illuminated.
+
+Let's start with the most clear-cut example: overfishing. Basic economic models predict that in an open-access resource like the oceans, a "tragedy of the commons" will occur where individuals act rationally in their own self-interest to deplete a shared resource. However, real-world fishing demonstrates even worse outcomes driven by common decision-making biases.
+
+First, there is quasi-hyperbolic discounting: people put too much weight on immediate returns rather than the long-term future. The allure of a lucrative catch today outweighs concerns about collapsing fish stocks. Unrealistic optimism also plays a role, with fishermen overestimating the resilience of fish populations. Add in the status quo bias where people dislike change even when it's beneficial, and you have a recipe for depleted oceans even when evidence shows limiting catches would be more profitable long-term.   
+
+These same biases apply to other threats like plastic pollution. Plastic production continues unabated because firms fall victim to present bias and corporate myopia, underweighting future costs imposed on the environment. Consumers exhibit uphill mental battles between the abstract long-term costs of single-use plastics versus the immediate convenience benefits.
+
+Acidification from absorbed CO2 is a more complex issue given diffuse global causes. But the same behavioral forces that have slowed climate action - uncertainty discounting, moral licensing, and psychological distancing of remote risks - hinder taking preventive steps.  
+
+So how to counteract these human shortcomings? For businesses, we should extend insights from auto-enrollment defaults, loss aversion framings, and social accountability to shift organizational norms. Tax incentives and targeted regulations can realign costs and benefits away from exploiting marine resources.
+
+For individuals, we need psychic payoff substitutes for actions that help the oceans but have high immediate costs. Green energy "warmth badge" programs or making beach cleanups social outings could scratch the itch for belonging and moral self-worth. Feedback systems like seafood traceability also give consumers a feedback loop and sense of autonomy.
+
+Above all, we need to make the ocean's plight less psychologically distant through experiential marketing campaigns. Images of marine life gasping from plastic straws hit human risk intuitions harder than numbers and statistics.
+
+The threats are severe, as is our natural tendency to ignore them until it's too late. The challenges are daunting, but understanding the behavioral pitfalls offers a path forward. If we can muster the willpower, applying nudges aligned with our psychological biases may be the best lever we have to save the oceans we all depend on.
+
+

@@ -1,0 +1,25 @@
+Here is a detailed academic article about Sustainable Development Goal 13 (Climate Action), written from the perspective of the late economist Alberto Alesina:
+
+Tackling climate change is one of the greatest challenges facing modern society. As an economist, I am compelled to analyze this issue through the lens of public policy, incentives, and market failures. Anthropogenic climate change is a quintessential negative externality - the costs of greenhouse gas emissions are not fully borne by those responsible for them. This market failure leads to overproduction of emissions relative to the social optimum. 
+
+Addressing such externalities is a core function of government intervention. Putting a price on carbon emissions, whether through a carbon tax or a cap-and-trade system, could help internalize the external costs and reduce emissions to a more efficient level. However, the political economy considerations are challenging given the distributional impacts and entrenched interests surrounding fossil fuels.
+
+There are also important questions around international coordination and free-riding incentives. Climate change is a global commons problem - every country has an incentive to free-ride off emissions reductions by others while continuing to pollute themselves. This highlights the need for an enforceable global climate agreement, a role the Paris Agreement has tried to play with mixed success so far.
+
+From a public finance perspective, government policies should aim to raise revenue while minimizing deadweight loss and distortionary taxation. A carbon tax has the advantage of being a relatively efficient Pigouvian tax that raises revenue while discouraging a negative externality. The revenues could be used to lower other distortionary taxes, invest in green technologies, and compensate those disproportionately harmed.
+
+There are debates around the optimal design of such policies. For a carbon tax, key considerations include the comprehensive tax base, the starting rate and path for escalation, whether to adopt an upstream or downstream approach, the use of border tax adjustments, and the degree of revenue recycling. For cap-and-trade, decisions must be made around allowance allocation, cost containment mechanisms, sectoral coverage, and interactions with other policies.
+
+A related issue is the balance between carbon pricing and more conventional command-and-control regulations on emissions. While pricing provides superior flexibility and cost-effectiveness in theory, well-designed regulations may be needed to overcome behavioral barriers, information problems, and capital market imperfections.
+
+We must also consider the political constraints around enacting meaningful climate policies. The entrenched lobbying power of fossil fuel interests and concerns around regional competitiveness impacts create formidable opposition. Public choice theory highlights the challenges in overcoming concentratedbenefits and diffuse costs. Carefully designed compensation and transition assistance may be required for affected workers, industries, and communities.
+
+From a fiscal federalism angle, there are questions around the optimal level of climate policy – federal, state/provincial, or local. While the externalities have a global dimension, sub-national policies can drive innovation and compensate for lack of federal action. But this raises concerns around economic and environmental leakage between jurisdictions.
+
+A full portfolio of climate policies is likely needed, including not just carbon pricing and regulations, but also investments in low-carbon R&D, clean infrastructure, regenerative agriculture, forest protection, and adaptation measures. Rigorous cost-benefit analysis is essential to ensure efficient allocation of public funds and maximize co-benefits like public health improvements.
+
+Climate change interacts with numerous other areas of public policy – transportation, land use, disaster preparedness, national security, immigration, and development aid, just to name a few. As nations and the global community strive to meet the Paris climate targets and sustainable development goals, multidisciplinary analysis and holistic policymaking will be vital.
+
+This is among the most complex and consequential political economy challenges of our time. Economists have an important role to play in designing effective, efficient, and equitable solutions through the climate policy toolkit. While an imperfect and ongoing process, putting a true price on carbon and internalizing the global externality is likely to be a necessary centerpiece. We must draw upon the latest research while striving to overcome the political constraints through prudent policymaking.
+
+

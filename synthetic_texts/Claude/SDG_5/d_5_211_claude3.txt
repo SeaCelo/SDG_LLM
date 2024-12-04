@@ -1,0 +1,23 @@
+Here is a draft academic article about Sustainable Development Goal 5 (Gender Equality) as if written by economist John List:
+
+Achieving Gender Equality and Empowering All Women and Girls: A Behavioral Economics Perspective
+
+By John List, Kenneth C. Griffin Distinguished Service Professor in Economics, University of Chicago
+
+The fifth Sustainable Development Goal (SDG 5) sets an ambitious target of achieving gender equality and empowering all women and girls by 2030. This lofty goal is not only a moral imperative from a human rights standpoint, but advancing women's equality is also "smart economics" - unleashing immense economic potential and catalyzing broader development gains.
+
+Traditional economic models often fail to account for nuanced human behaviors and social norms that perpetuate gender discrimination. By incorporating insights from psychology and leveraging field experiments, behavioral economics can shed new light on the barriers to gender parity and identify novel solutions.  
+
+Take labor force participation as one example. In many countries, patriarchal norms and gender stereotypes depict women as inferior workers, discouraging female employment. My field experiments in developing countries have shown how providing information about peers' attitudes or successful female role models can powerfully update regressive beliefs and increase labor supply among women.
+
+Moreover, discriminatory social norms are frequently internalized from a young age. A famous field experiment in India randomly distributed high-stakes scholarships to adolescents for continued schooling, finding the incentives closed the gender gap in academic performance and improved later labor market outcomes for women. Results highlighted the importance of dismantling pernicious norms through policy action during critical life stages.
+
+Gender disparities in decision-making power within the household represent another key obstacle. Using artefactual field experiments in several countries, I have studied household resource allocation under different patriarchal norms and women's bargaining positions. The evidence clearly demonstrates that empowering women with greater decision rights leads to improved investments in children's health and education.
+
+Recent field experiments I have conducted further explore the role of women in governance and politics. One creative experiment incentivized village-level leadership competitions in India based solely on performance in public goods provision games. The result was a significant increase in female participation, challenging entrenched biases about women's competence as leaders.
+
+Beyond questioning traditional assumptions, behavioral economics also offers a toolkit of "nudge" interventions to help societies move toward greater gender equality. For instance, carefully designed commitment devices or norm-based messaging can gently steer behavior in a positive direction. Or providing timely suggestions, simplifying administrative processes, or bringing key services closer to women can mitigate logistical barriers.
+
+In sum, integrating psychology into economics generates powerful new insights about the roots of gender inequality and illuminating paths forward. Harnessing behavioral science will be indispensable for achieving SDG 5. With trailblazing research and evidence-based policies, we can dismantle the manifold obstacles holding back the world's women and girls - unlocking transformative gains for all humanity.
+
+

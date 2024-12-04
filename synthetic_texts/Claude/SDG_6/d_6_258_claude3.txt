@@ -1,0 +1,21 @@
+Here is a detailed academic article about Sustainable Development Goal 6: Clean Water and Sanitation, written from the perspective of renowned labor economist David Autor:
+
+The water crisis is one of the greatest threats facing our global economy and labor markets in the coming century. With rising populations, urbanization, industrial development, and climate change impacts, increasing water scarcity imperils agricultural productivity, food security, human health, and ultimately labor supply and economic growth across both developed and developing nations.  
+
+A fundamental challenge is that water is an unpriced public good in most parts of the world. Because consumers do not pay the full social cost of water extraction and pollution, there is an ineluctable tendency toward overexploitation of surface and groundwater resources. This tragedy of the commons is exacerbated by poor water governance, weak institutions, lack of infrastructure investment, and limited adoption of water-saving technologies across municipal, industrial, and agricultural sectors. 
+
+The inequitable access to clean water and sanitation services creates negative externalities that disproportionately disadvantage the global labor supply of low-income populations. Worldwide, 2 billion people lack access to safe drinking water and more than double that number lack basic sanitation services. Inadequate access to clean water and sanitation is linked to increased mortality from preventable waterborne illnesses and malnutrition, lower school attendance, reduced labor productivity, elevated health care costs, and trillions of dollars in annual economic losses.
+
+Crucially, this burden typically falls on women and children living in slums and rural areas of low and middle-income countries, who must spend significant time and physical labor fetching water from remote sources instead of attending school or engaging in income-generating work. These negative health externalities both reduce the effective labor supply and exacerbate income inequality within and across countries.  
+
+From a development perspective, lack of water security poses severe constraints on economic diversification into higher productivity sectors like manufacturing that require reliable access to affordable water inputs. By depressing agricultural yields, water scarcity contributes to urbanization, urban crowding, and the expansion of low-productivity informal services in cities.
+
+Sustainable management of water resources is therefore critical for supporting sustained productivity growth necessary for economic convergence between rich and poor nations. Investment in water infrastructure, efficient irrigation, pollution abatement, and water recycling generate positive spillovers to the agricultural, health, and industrial sectors that can realize a high social return.
+
+Economic research demonstrates how marginal cost water pricing, removal of perverse agricultural subsidies, and strengthening of secure water rights and property entitlements can raise incentives for conservation and efficient resource allocation. Additional innovations like desalination, detection of micro-leaks, and deployment of IoT sensor networks for real-time monitoring present opportunities for reducing water waste through data-driven decision-making.  
+
+However, as with climate change, the water crisis defies unilateral solutions. Due to the global hydrologic cycle, upstream water management decisions impose externalities downstream across national borders. Multinational cooperation and investment facilitated by institutions like the World Bank will therefore be essential for coordinating sustainable, equitable water policies that recognize water as both a scarce natural resource and a fundamental human right.
+
+By prioritizing investment in water and sanitation infrastructure, groundwater replenishment strategies, pollution remediation, and efficient water pricing, policymakers can raise quality of life, reduce income inequality, foster economic inclusion, bolster food and health security, and ultimately expand the global labor supply while mitigating conflict over this vital resource. Doing so aligns with the mission of SDG 6 while catalyzing progress toward achieving many of the other 2030 Sustainable Development Goals.
+
+

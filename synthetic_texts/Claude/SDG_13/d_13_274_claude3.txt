@@ -1,0 +1,17 @@
+[An academic article on SDG 13 (Climate Action) as if written by Lars Peter Hansen, a renowned economist and expert on uncertainty quantification:] 
+
+The existential crisis of climate change represents a profound challenge that demands an urgent reassessment of our approach to uncertainty quantification and decision-making under ambiguity. As a central tenet of the Sustainable Development Goals (SDGs), climate action (SDG 13) necessitates a paradigm shift in how we conceptualize and address the multifaceted risks posed by anthropogenic global warming.
+
+Traditional economic models have often failed to adequately capture the full scope and complexity of climate-related uncertainties. The intrinsic nonlinearities, tipping points, and feedback loops inherent in Earth's climate system defy simplistic assumptions of stationarity and ergodicity. Furthermore, the deep uncertainty surrounding the long-term impacts of climate change, compounded by the potential for abrupt and irreversible changes, challenges the very foundations of conventional cost-benefit analysis and expected utility theory.
+
+To confront this reality, we must embrace a more comprehensive and nuanced approach to uncertainty quantification, one that acknowledges the limitations of our knowledge and the potential for surprises. This entails moving beyond the narrow confines of risk, where probabilities are known or can be reliably estimated, and venturing into the realms of ambiguity and uncertainty where precise quantification may be elusive.
+
+One promising avenue lies in the burgeoning field of robust decision theory, which seeks to identify strategies that perform reasonably well across a wide range of plausible futures, rather than optimizing for a single best-case scenario. By explicitly accounting for deep uncertainties and exploring the vulnerabilities of potential policies, robust decision methods offer a more resilient framework for navigating the treacherous landscape of climate change.
+
+Complementary to this, the concept of entropy-constrained uncertainty quantification provides a powerful tool for characterizing and incorporating ambiguity into decision-making processes. By imposing constraints on the relative entropy between the true, unknown probability distribution and a reference model, we can construct robust decision criteria that hedge against our inherent lack of knowledge and guard against catastrophic outcomes.
+
+Moreover, the integration of climate science and economic modeling is paramount in this endeavor. Advances in Earth system modeling, coupled with improved understanding of climate sensitivity, carbon cycle feedbacks, and the role of tipping elements, must be seamlessly integrated into economic frameworks to better capture the intricate dynamics and potential nonlinearities at play.
+
+Ultimately, the urgency of climate action demands a fundamental reappraisal of our approach to uncertainty and decision-making under ambiguity. By embracing robust methodologies, entropy-based uncertainty quantification, and interdisciplinary collaboration, we can navigate the treacherous terrain of climate change with greater resilience and wisdom. Only then can we hope to forge a sustainable path that upholds the principles of the SDGs and safeguards the future of our planet and its inhabitants.
+
+
