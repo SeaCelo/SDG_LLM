@@ -7,13 +7,15 @@ The directory `synthetic_texts` contains the output of the LLMs using the prompt
 There are 537 prompts to generate text for each of the 17 SDGs (17 × 537 = 9,129 synthetic texts). The 537 prompts are generated using two LLM models: ChatGPT and Claude3. This results in a total of **18,258 synthetic texts**.
 
 ### Sources
-Variation is created by requesting the LLMs to generate texts in the style of each of the 537 sources:
+Variation is created by requesting each LLM (2) to generate texts for each of the SDGs (17) in the style of each of the sources (537). The sources are:
 * UN agencies, departments, and divisions
 * The top 100 economists in the REPEC list [https://ideas.repec.org/top/top.person.all.html](https://ideas.repec.org/top/top.person.all.html)  
 * English-language newspaper columnists from Wikipedia [https://en.wikipedia.org/wiki/List_of_newspaper_columnists](https://en.wikipedia.org/wiki/List_of_newspaper_columnists)  
 * Development aid agencies from Wikipedia [https://en.wikipedia.org/wiki/List_of_development_aid_agencies](https://en.wikipedia.org/wiki/List_of_development_aid_agencies)  
 * Finance and general magazines in the US and top newspapers [https://en.wikipedia.org/wiki/List_of_United_States_magazines](https://en.wikipedia.org/wiki/List_of_United_States_magazines) and [https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States](https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States)  
 * The top 50 academic journals [https://ideas.repec.org/top/top.journals.all.html](https://ideas.repec.org/top/top.journals.all.html)  
+
+The prompts are listed in `prompts_large.txt`
 
 ### LLM Models Used
 The synthetic texts are created using two different LLM models (ChatGPT and Claude3), each introducing its own method of generating texts, which serves as an additional source of variation. 
